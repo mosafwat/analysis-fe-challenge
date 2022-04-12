@@ -11,8 +11,8 @@ The challenge is to implement an analytics dashboard like this one with the desc
 3. A chart renders the data of the selected schools similarly to the image.
 4. On the right of the screen, the total number of lessons is displayed for the selected Camp, School and Country, followed by a list of the schools with how many lessons each offers.
 5. The schools list from point 4 should include toggles to show or hide the line chart of a certain school.
-6. Upon clicking on a point in the chart from point 3, the app should navigate to another page where all the details of that item are shown. No UX is provided, but use a simple layout that shows: like country, camp, school, month and numebr of lessons.
-7. After coming back from the details page implemebnted in point 6, the last filtering state should be preserved.
+6. Upon clicking on a point in the chart from point 3, the app should navigate to another page where all the details of that item are shown. No UX is provided, but use a simple layout that shows: like country, camp, school, month and number of lessons.
+7. After coming back from the details page implemented in point 6, the last filtering state should be preserved.
 
 
 ## Requirements
