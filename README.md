@@ -20,7 +20,7 @@ The challenge is to implement an analytics dashboard like this one with the desc
 - Use Angular, TypeScript and Chart.js.
 - Good unit-test cases is required to secure the code. Bonus if E2E testing is implemented.
 - Store the data centrally by using any state-management library of your choice (EX: NgRx).
-- The project should be performant and scalable. Try to follow best pratices in areas such as project structure, linting, components structure, layering, modularity.
+- The project should be performant and scalable. Try to follow best pratices in areas such as project structure, linting, documentation, components structure, layering, modularity.
 - Bonus points:
     - Implement a toggle to switch on/off dark mode.
     - Multi-lingual support.
