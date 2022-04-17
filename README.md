@@ -17,7 +17,7 @@ The challenge is to implement an analytics dashboard like this one with the desc
 
 ## Requirements
 
-- Use Angular, TypeScript and Chart.js(or any other chart libraries).
+- Use (Angular 2+ Or ReactJS) and Chart.js(or any other free chart libraries).
 - Good unit-test cases is required to secure the code. Bonus if E2E testing is implemented.
 - The project should be performant and scalable. Try to follow best pratices in areas such as project structure, responsive web design, linting, documentation, components structure, layering, modularity.
 - Bonus points:
